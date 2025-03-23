@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Aimrane-Alyachiri/TP2.git
+[remote "destination"]
+	url = https://github.com/FSSMUCA/tp2-javascript-Aimrane-Alyachiri.git
+	fetch = +refs/heads/*:refs/remotes/destination/*
